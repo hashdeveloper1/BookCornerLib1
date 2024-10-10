@@ -1,8 +1,8 @@
 # BookCornerLib
 A simple internal management system for paid book operations.
-# BookCornerLib
 
-**BookCornerLib** is an internal library management system designed for efficiently managing paid book transactions and inventory. This tool simplifies the administrative processes of tracking sales, monitoring stock levels, and streamlining operations for library staff.
+**BookCornerLib** is an internal library management system designed for efficiently managing paid book transactions and inventory.
+This tool simplifies the administrative processes of tracking sales, monitoring stock levels, and streamlining operations for library staff.
 
 ## Features
 - Manage paid book transactions
@@ -10,5 +10,9 @@ A simple internal management system for paid book operations.
 - Generate sales reports
 - User-friendly interface for staff
 
+
 ## Installation
-1. Clone the repository: 
+
+1. Download the addon.
+2. Place it in your Odoo addons directory.
+3. Update the apps list and install the addon via the Odoo interface.
